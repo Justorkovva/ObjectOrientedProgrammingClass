@@ -30,9 +30,11 @@ package Class7;
 		    builder.append('|');
 		}
 
+		// It calls this function automatically, but we don't write it anywhere
 		@Override
 		public String toString() {
 			return builder.toString();
 		}
+		
 			
 	}
