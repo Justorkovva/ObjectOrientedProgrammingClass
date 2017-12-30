@@ -18,7 +18,7 @@ public class CatDemo {
 		
 		cat2.setAge(cat2.getAge() + 2);
 		
-		System.out.println("After 2 years it will be  " + cat2.getAge() + " years old");
+		System.out.println("After 2 years it will be " + cat2.getAge() + " years old");
 
 	}
 
